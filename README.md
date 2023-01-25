@@ -19,4 +19,4 @@ Make it accessible from your browser for the next tasks
 
 6.  Deploy your app on ArgoCD
     
-7.  Well Done!
+### Well Done!
